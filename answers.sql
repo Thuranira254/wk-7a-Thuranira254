@@ -1,4 +1,4 @@
--- Q2 Transform ProductDetail table into 1NF
+-- Q1 Transform ProductDetail table into 1NF
 CREATE TABLE ProductDetail_1NF (
     OrderID INT,
     CustomerName VARCHAR(255),
